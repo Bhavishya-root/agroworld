@@ -1,0 +1,198 @@
+{
+    "shopproducts": [
+        {
+            "name": "Hepar Magnesium 10 Special Order",
+            "brand": "Good Sense Aspirin",
+            "price": 348
+        },
+        {
+            "name": "stool softener",
+            "brand": "Betamethasone Valerate",
+            "price": 154
+        },
+        {
+            "name": "Magnacet",
+            "brand": "Colestipol Hydrochloride",
+            "price": 130
+        },
+        {
+            "name": "infants pain relief",
+            "brand": "AMIODARONE HYDROCHLORIDE",
+            "price": 29
+        },
+        {
+            "name": "First Degree",
+            "brand": "Neutrogena Mineral Sheers",
+            "price": 722
+        },
+        {
+            "name": "Rizatriptan Benzoate",
+            "brand": "Depo-Medrol",
+            "price": 511
+        },
+        {
+            "name": "CELEBREX",
+            "brand": "Hydrocodone Bitartate and Acetaminophen",
+            "price": 761
+        },
+        {
+            "name": "DR. RECKEWEG R74 Nocturnin",
+            "brand": "Cepacol",
+            "price": 282
+        },
+        {
+            "name": "Levothyroxine Sodium",
+            "brand": "Propranolol Hydrochloride",
+            "price": 196
+        },
+        {
+            "name": "Baby Diaper Rash",
+            "brand": "Dove",
+            "price": 399
+        },
+        {
+            "name": "Lotrel",
+            "brand": "SkinCeuticals Sheer Physical UV Defense Broad Spectrum SPF 50 Sunscreen",
+            "price": 816
+        },
+        {
+            "name": "Ibuprofen",
+            "brand": "Dermasil Advanced",
+            "price": 352
+        },
+        {
+            "name": "Shopko Antibacterial Hand Sanitizer",
+            "brand": "Amlodipine Besylate",
+            "price": 764
+        },
+        {
+            "name": "up and up hemorrhoidal",
+            "brand": "Botanics Complexion Refining Day Moisture Sunscreen SPF 12",
+            "price": 302
+        },
+        {
+            "name": "ziprasidone hydrochloride",
+            "brand": "Lotrel",
+            "price": 225
+        },
+        {
+            "name": "Nitrotan",
+            "brand": "HAND SANITIZING",
+            "price": 58
+        },
+        {
+            "name": "NEXIUM",
+            "brand": "Mend19 Wound Care",
+            "price": 880
+        },
+        {
+            "name": "Zonisamide",
+            "brand": "Galantamine",
+            "price": 713
+        },
+        {
+            "name": "Pentazocine and Naloxone",
+            "brand": "Balancing Day Moisture Broad Spectrum SPF 15",
+            "price": 309
+        },
+        {
+            "name": "Amber Mouth Rinse",
+            "brand": "WHOLE EGG",
+            "price": 645
+        },
+        {
+            "name": "Degree",
+            "brand": "Fexofenadine Hydrochloride",
+            "price": 308
+        },
+        {
+            "name": "Penicillin V Potassium",
+            "brand": "Vicodin",
+            "price": 304
+        },
+        {
+            "name": "Nutricel Additive System - AS3",
+            "brand": "Gabapentin",
+            "price": 787
+        },
+        {
+            "name": "AMLODIPINE BESYLATE",
+            "brand": "Lidocaine",
+            "price": 313
+        }
+    ],
+    "shopdata": [
+        {
+            "shopid": 11,
+            "shopname": "Sidhvinayk",
+            "shopctgry": "pesticides,fertilizers,seeds,accesires",
+            "img_url": "shop1",
+            "shopaddress": "shop no.2,mandi road",
+            "shopcity": "Indore"
+        },
+        {
+            "shopid": 12,
+            "shopname": "Heramnai",
+            "shopctgry": "pesticides,fertilizers,seeds,accesires",
+            "img_url": "shop2",
+            "shopaddress": "shop no.5,mandi road",
+            "shopcity": "Ujjain"
+        },
+        {
+            "shopid": 15,
+            "shopname": "Barod",
+            "shopctgry": "pesticides,fertilizers,seeds,accesires",
+            "img_url": "shop3",
+            "shopaddress": "Jawaher Chouk",
+            "shopcity": "Dewas"
+        },
+        {
+            "shopid": 18,
+            "shopname": "Ratnavali",
+            "shopctgry": "pesticides,fertilizers,seeds,accesires",
+            "img_url": "shop4",
+            "shopaddress": "Lalgate",
+            "shopcity": "Ratankhedi"
+        },
+        {
+            "shopid": 14,
+            "shopname": "TRS",
+            "shopctgry": "pesticides,fertilizers,seeds,accesires",
+            "img_url": "shop5",
+            "shopaddress": "Patel Complex 202",
+            "shopcity": "Dewas"
+        },
+        {
+            "shopid": 13,
+            "shopname": "Trapti",
+            "shopctgry": "pesticides,fertilizers,seeds,accesires",
+            "img_url": "shop6",
+            "shopaddress": "AB road",
+            "shopcity": "Chidavd"
+        },
+        {
+            "shopid": 21,
+            "shopname": "Shakti",
+            "shopctgry": "pesticides,fertilizers,seeds,accesires",
+            "img_url": "shop7",
+            "shopaddress": "near Govt. school",
+            "shopcity": "Tonk khurd"
+        },
+        {
+            "shopid": 31,
+            "shopname": "Agrocare",
+            "shopctgry": "pesticides,fertilizers,seeds,accesires",
+            "img_url": "shop8",
+            "shopaddress": "Khati tenk opposite",
+            "shopcity": "Dewas"
+        },
+        {
+            "shopid": 41,
+            "shopname": "Welthy",
+            "shopctgry": "pesticides,fertilizers,seeds,accesires",
+            "img_url": "shop9",
+            "shopaddress": "MG road",
+            "shopcity": "Dewas"
+        }
+    ]
+}
